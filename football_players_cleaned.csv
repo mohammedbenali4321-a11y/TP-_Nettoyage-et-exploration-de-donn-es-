@@ -1,0 +1,52 @@
+Player,Team,Position,Goals,Assists,Shots,Temps_de_jeu
+Messi,INTER MIAMI,Attaquant,25.0,18.0,95,2553
+Ronaldo,AL NASSR,Attaquant,22.0,8.0,88,1735
+Neymar,AL HILAL,Attaquant,18.0,12.0,76,1663
+Mbappé,REAL MADRID,Attaquant,34.0,10.0,120,2631
+Modric,REAL MADRID,Milieu,4.0,10.0,30,1933
+Haaland,MAN CITY,Attaquant,52.0,6.0,140,1177
+Benzema,AL ITTIHAD,Attaquant,28.0,7.0,98,2678
+Salah,LIVERPOOL,Attaquant,30.0,11.0,110,2728
+De Bruyne,MAN CITY,Milieu,12.0,20.0,70,1605
+Lewandowski,BARCELONA,Attaquant,40.0,5.0,125,3035
+Vinicius,REAL MADRID,Attaquant,17.0,9.0,65,3122
+Hakimi,PSG,Défenseur,5.0,7.0,40,2601
+Kane,BAYERN,Attaquant,27.0,10.0,105,1437
+Son,TOTTENHAM,Attaquant,18.0,8.0,80,3020
+Pedri,BARCELONA,Milieu,11.56,11.0,28,2840
+Bernardo Silva,MAN CITY,Milieu,10.0,9.0,60,3063
+Rodri,MAN CITY,Milieu,3.0,4.0,20,1876
+Kimmich,BAYERN,Milieu,6.0,8.0,35,1655
+Foden,MAN CITY,Attaquant,20.0,6.0,85,2946
+De Ligt,BAYERN,Défenseur,3.0,1.0,15,2771
+Casemiro,MAN UNITED,Milieu,2.0,1.0,18,999
+Marquinhos,PSG,Défenseur,4.0,2.0,20,2908
+Mané,AL NASSR,Attaquant,15.0,6.0,70,1655
+Sterling,CHELSEA,Attaquant,7.0,5.0,50,1697
+Raphinha,BARCELONA,Attaquant,9.0,7.0,55,1559
+João Félix,BARCELONA,Attaquant,11.0,6.0,60,1323
+Álvarez,MAN CITY,Attaquant,14.0,5.0,65,1539
+Lautaro,INTER,Attaquant,19.0,4.0,72,1444
+Dybala,ROMA,Attaquant,10.0,8.0,48,1614
+Insigne,NAPOLI,Attaquant,6.0,5.0,30,3192
+Milinković-Savić,LAZIO,Milieu,8.0,6.0,50,1051
+Brozović,INTER,Milieu,2.0,7.0,25,2107
+Sergi Roberto,BARCELONA,Défenseur,3.0,5.0,28,2976
+Kanté,AL ITTIHAD,Milieu,1.0,2.0,10,1702
+Giroud,AC MILAN,Attaquant,5.0,2.0,30,3076
+Aubameyang,CHELSEA,Attaquant,8.0,3.0,40,3076
+Ramos,SEVILLA,Défenseur,2.0,1.0,15,2856
+Oblak,ATLETICO,Gardien,0.0,0.0,2,2825
+Alisson,LIVERPOOL,Gardien,0.0,1.0,3,1656
+Trippier,NEWCASTLE,Défenseur,3.0,6.0,25,1173
+Perišić,INTER,Milieu,6.0,4.0,35,1288
+James Rodríguez,AL RAYYAN,Milieu,5.0,7.0,40,2541
+Oyarzábal,REAL SOCIEDAD,Attaquant,11.0,4.0,55,2366
+Mertens,NAPOLI,Attaquant,4.0,3.0,20,1788
+Cavani,VALENCIA,Attaquant,7.0,2.0,30,1157
+Pulisic,CHELSEA,Attaquant,6.0,5.0,40,2245
+Eriksen,MANCHESTER UNITED,Milieu,4.0,8.0,25,3005
+Verratti,PSG,Milieu,2.0,6.0,20,1330
+Isco,REAL BETIS,Milieu,3.0,4.0,18,991
+Saúl,ATLETICO,Milieu,2.0,3.0,22,2820
+Messi,INTER MIAMI,Attaquant,25.0,18.0,95,2553
