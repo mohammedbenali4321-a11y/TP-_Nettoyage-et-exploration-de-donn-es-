@@ -45,4 +45,4 @@ L'objectif principal de ce travail est de transformer un jeu de données brut co
 ## 🔗 Contact & Réseaux
 
 * **LinkedIn** : [Mohamed BEN ALI](https://www.linkedin.com/in/mohamed-ben-ali-m)
-* **roadmap** : [Mohamed BEN ALI](https://roadmap.sh/u/benalimohamed)#
+* **roadmap** : [Mohamed BEN ALI](https://roadmap.sh/u/benalimohamed)
